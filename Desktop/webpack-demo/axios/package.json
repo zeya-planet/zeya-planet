@@ -1,0 +1,14 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "serve": "json-server -w ./server/db.json -p 8089"
+  },
+  "author": "",
+  "license": "ISC"
+}
